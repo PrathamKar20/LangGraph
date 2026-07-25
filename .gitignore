@@ -1,0 +1,17 @@
+# Virtual Environment
+venv/
+
+# Environment Variables / Sensitive Secrets
+.env
+
+# Python Caches & Bytes
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local configuration / IDE metadata
+.vscode/
+.idea/
+.agents/
+.gemini/
