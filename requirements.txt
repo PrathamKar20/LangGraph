@@ -9,3 +9,5 @@ tavily-python
 langchain-tavily
 grandalf
 langsmith
+langchain-groq
+langgraph-checkpoint-sqlite
