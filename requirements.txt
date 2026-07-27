@@ -8,3 +8,4 @@ python-dotenv
 tavily-python
 langchain-tavily
 grandalf
+langsmith
