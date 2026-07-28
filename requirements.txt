@@ -12,3 +12,4 @@ langsmith
 langchain-groq
 langgraph-checkpoint-sqlite
 chromadb
+langchain-experimental
