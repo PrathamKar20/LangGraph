@@ -11,3 +11,4 @@ grandalf
 langsmith
 langchain-groq
 langgraph-checkpoint-sqlite
+chromadb
